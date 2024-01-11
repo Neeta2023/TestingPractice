@@ -13,7 +13,13 @@ public class jan3 {
 		
 		int x;
 		
+	
+		
 
+	}
+	
+	public void neeta() {
+		System.out.println("neeta has added this");
 	}
 }
 
